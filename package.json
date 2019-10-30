@@ -4,6 +4,10 @@
 	"description": "Dark Xcode with colorful Syntax",
 	"version": "1.4.0",
 	"publisher": "Richard",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/the-1000th-summer/xcode-midnight-2-theme"
+	},
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.31.0"
