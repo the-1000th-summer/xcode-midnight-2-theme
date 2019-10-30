@@ -1,5 +1,4 @@
-# Midnight Color Theme
+# Xcode Midnight 2 Color Theme
 
-a Dark Background with colorful Syntax. Everything you need!
+a Dark Background theme similar to Xcode Midnight. Everything you need!
 
-<img src="https://s17.directupload.net/images/190905/pe8eq4iv.png" title="Kostenlos Bilder und Fotos hochladen">
