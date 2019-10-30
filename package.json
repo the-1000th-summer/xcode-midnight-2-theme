@@ -1,0 +1,23 @@
+{
+	"name": "xcode-midnight-2",
+	"displayName": "Xcode-Midnight-2",
+	"description": "Dark Xcode with colorful Syntax",
+	"version": "1.4.0",
+	"publisher": "Richard",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.31.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Xcode Midnight 2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Xcode Midnight 2-color-theme.json"
+			}
+		]
+	}
+}
